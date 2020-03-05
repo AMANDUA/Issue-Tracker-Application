@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Issue Tracker Application
+
+This application is to track issues / todo's. This is a small pure React application created using `React v16.13` using concepts of hooks.
+
 ## Available Scripts
 
 In the project directory, you can run:
